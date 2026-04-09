@@ -1,0 +1,82 @@
+[2026-04-09 16:00:44] [Warning] Undefined variable $variableInexistance in C:\laragon\www\Helpers\errorManager.php line 90
+[2026-04-09 16:02:01] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 90
+[2026-04-09 16:02:01] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 91
+[2026-04-09 16:02:01] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 92
+[2026-04-09 16:03:49] [Autre] Ceci est une erreur in C:\laragon\www\Helpers\errorManager.php line 90
+[2026-04-09 16:03:49] [Autre] Ceci est un message de dépréciation in C:\laragon\www\Helpers\errorManager.php line 91
+[2026-04-09 16:03:49] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 92
+[2026-04-09 16:03:49] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 93
+[2026-04-09 16:03:49] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 94
+[2026-04-09 16:04:25] [Autre] Passing E_USER_ERROR to trigger_error() is deprecated since 8.4, throw an exception or call exit with a string message instead in C:\laragon\www\Helpers\errorManager.php line 90
+[2026-04-09 16:04:25] [Erreur] Ceci est une erreur in C:\laragon\www\Helpers\errorManager.php line 90
+[2026-04-09 16:04:25] [Autre] Ceci est un message de dépréciation in C:\laragon\www\Helpers\errorManager.php line 91
+[2026-04-09 16:04:25] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 92
+[2026-04-09 16:04:25] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 93
+[2026-04-09 16:04:25] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 94
+[2026-04-09 16:06:06] [Autre] Ceci est un message de dépréciation in C:\laragon\www\Helpers\errorManager.php line 90
+[2026-04-09 16:06:06] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 91
+[2026-04-09 16:06:06] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 92
+[2026-04-09 16:06:06] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 94
+[2026-04-09 16:07:17] [Autre] Ceci est un message de dépréciation in C:\laragon\www\Helpers\errorManager.php line 91
+[2026-04-09 16:07:17] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 92
+[2026-04-09 16:07:17] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 93
+[2026-04-09 16:07:17] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 95
+[2026-04-09 16:07:26] [Déprécie] Ceci est un message de dépréciation in C:\laragon\www\Helpers\errorManager.php line 91
+[2026-04-09 16:07:26] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 92
+[2026-04-09 16:07:26] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 93
+[2026-04-09 16:07:26] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 95
+[2026-04-09 16:08:12] [Déprécié] Ceci est un message de dépréciation in C:\laragon\www\Helpers\errorManager.php line 91
+[2026-04-09 16:08:12] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 92
+[2026-04-09 16:08:12] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 93
+[2026-04-09 16:08:12] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 95
+[2026-04-09 16:08:26] [Déprécié] Ceci est un message de dépréciation in C:\laragon\www\Helpers\errorManager.php line 91
+[2026-04-09 16:08:26] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 92
+[2026-04-09 16:08:26] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 93
+[2026-04-09 16:08:26] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 95
+[2026-04-09 16:09:14] [Déprécié] Ceci est un message de dépréciation in C:\laragon\www\Helpers\errorManager.php line 91
+[2026-04-09 16:09:14] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 92
+[2026-04-09 16:09:14] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 93
+[2026-04-09 16:09:14] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 95
+[2026-04-09 16:09:52] [Déprécié] Ceci est un message de dépréciation in C:\laragon\www\Helpers\errorManager.php line 91
+[2026-04-09 16:09:52] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 92
+[2026-04-09 16:09:52] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 93
+[2026-04-09 16:09:52] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 95
+[2026-04-09 16:10:27] [Exception] Erreur critique in C:\laragon\www\Helpers\errorManager.php line 96
+[2026-04-09 16:10:41] [Exception]  in C:\laragon\www\Helpers\errorManager.php line 96
+[2026-04-09 16:10:59] [Warning] Undefined variable $variable in C:\laragon\www\Helpers\errorManager.php line 91
+[2026-04-09 16:12:15] [Warning] Undefined variable $variable in C:\laragon\www\Helpers\errorManager.php line 92
+[2026-04-09 16:12:15] [Warning] Array to string conversion in C:\laragon\www\Helpers\errorManager.php line 58
+[2026-04-09 16:12:15] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 98
+[2026-04-09 16:12:24] [Warning] Array to string conversion in C:\laragon\www\Helpers\errorManager.php line 58
+[2026-04-09 16:12:24] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 98
+[2026-04-09 16:13:04] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 98
+[2026-04-09 16:13:17] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 98
+[2026-04-09 16:13:27] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 98
+[2026-04-09 16:17:55] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 97
+[2026-04-09 16:17:57] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 97
+[2026-04-09 16:17:58] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 97
+[2026-04-09 16:17:58] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 97
+[2026-04-09 16:23:21] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 103
+[2026-04-09 16:23:26] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 103
+[2026-04-09 16:26:09] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 103
+[2026-04-09 16:26:24] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 103
+[2026-04-09 16:26:26] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 103
+[2026-04-09 16:26:46] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 103
+[2026-04-09 16:26:47] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 103
+[2026-04-09 16:28:54] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 105
+[2026-04-09 16:29:24] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 108
+[2026-04-09 16:33:06] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 106
+[2026-04-09 16:33:06] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 107
+[2026-04-09 16:33:06] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 110
+[2026-04-09 16:35:16] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 98
+[2026-04-09 16:35:16] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 99
+[2026-04-09 16:35:16] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 102
+[2026-04-09 16:35:51] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 98
+[2026-04-09 16:35:51] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 99
+[2026-04-09 16:35:51] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 102
+[2026-04-09 18:36:56] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 99
+[2026-04-09 18:36:56] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 100
+[2026-04-09 18:36:56] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 103
+[2026-04-09 18:37:29] [Notice] Ceci est une notice in C:\laragon\www\Helpers\errorManager.php line 100
+[2026-04-09 18:37:29] [Warning] Ceci est un warning in C:\laragon\www\Helpers\errorManager.php line 101
+[2026-04-09 18:37:29] [Exception] Ceci est une exception volontaire in C:\laragon\www\Helpers\errorManager.php line 104
