@@ -36,4 +36,6 @@ function truncate(string $text, int $limit = 100): string
     return htmlspecialchars($text, ENT_QUOTES, 'UTF-8') . '...';
 }
 
+//Utilisation
+
 echo truncate("zidjqzoidh ou€€€~/<script>alert('hack')</script>zdq qzd'qrds^^^^$*ùl&@@@");
